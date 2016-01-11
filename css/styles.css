@@ -1,0 +1,15 @@
+#banner {
+  text-align: center;
+  background-color: red;
+  height: 75px;
+}
+
+#sidebar {
+  background-color: yellow;
+  height: 800px;
+}
+
+#content {
+  background-color: grey;
+  height: 800px;
+}
