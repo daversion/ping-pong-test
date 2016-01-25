@@ -9,7 +9,11 @@
   height: 800px;
 }
 
-#content {
+#main {
   background-color: grey;
   height: 800px;
+}
+
+#main .form-control {
+  width: 50%;
 }
