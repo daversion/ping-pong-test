@@ -16,7 +16,7 @@ _User enters a number.  The webpage displays every number up to that number. For
 
 ## Technologies Used
 
-_I used basic HTML, CSS, and jQuery._
+_I used HTML, Bootstrap, jQuery, mocha.js and chai.js_
 
 ### Legal
 
