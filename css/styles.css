@@ -1,19 +1,17 @@
 #banner {
   text-align: center;
-  background-color: red;
+  background-color: #B7E3FF;
   height: 75px;
 }
 
 #sidebar {
-  background-color: yellow;
-  height: 800px;
+  background-color: #B26900;
 }
 
 #main {
-  background-color: grey;
-  height: 800px;
+  background-color: #FF9600;
 }
 
 #main .form-control {
-  width: 50%;
+  width: 20%;
 }
