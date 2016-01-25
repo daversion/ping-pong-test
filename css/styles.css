@@ -6,10 +6,12 @@
 
 #sidebar {
   background-color: #B26900;
+  min-height: 800px;
 }
 
 #main {
   background-color: #FF9600;
+  min-height: 800px;
 }
 
 #main .form-control {
